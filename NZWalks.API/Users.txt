@@ -1,0 +1,10 @@
+﻿User1 {
+	username : reader@nzwalk.com
+	password : Reader@123
+	roles : Reader
+}
+User2 {
+	username : writer@nzwalk.com
+	password : Writer@123
+	roles : Writer
+}
